@@ -32,6 +32,10 @@
 ### 🚀 Featured Projects
 
 ```diff
++ 📈Fintrack
+-Hono.js and plaid based personal finance manager.
+#stack :React| HONO| SQL| Prisma |Plaid | Js
+🔗
 + 🧠 Voice Task Manager
 - Speech-based task manager with smart commands.
 # Stack: React | Node.js | MongoDB | SpeechRecognition
@@ -41,6 +45,8 @@
 - Airbnb-style full stack real estate app.
 # Stack: React | Redux | Express | MongoDB
 🔗 https://home-rental.vercel.app
+
+
 ```
 
 ---
@@ -48,8 +54,8 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sajalbaranwal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sajal.k.baranwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sajal-kumar-baranwal-85412128a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sajalkumarbaranwal13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://sajalbaranwal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
