@@ -56,7 +56,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sajal-kumar-baranwal-85412128a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sajalkumarbaranwal13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://sajalbaranwal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio1-rho-flame.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
