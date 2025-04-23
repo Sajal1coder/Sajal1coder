@@ -44,7 +44,7 @@
 + 🏡 Home Rental Platform
 - Airbnb-style full stack real estate app.
 # Stack: React | Redux | Express | MongoDB
-🔗 https://home-rental.vercel.app
+🔗https://homease-taupe.vercel.app/
 
 
 ```
